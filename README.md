@@ -1,5 +1,8 @@
 ### LIXI.FUN
 
+- 🌱 I’m currently learning *Algorithm Design*
+- 📫 How to reach me: *lixifun@qq.com*
+
 <!--
 **lixifun/lixifun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
