@@ -1,5 +1,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lixifun&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+# 👋 Hello! I'm lixifun
+
 - 🌱 I’m currently learning *Algorithm Design*
 - 📫 How to reach me: *lixifun@qq.com*
 
