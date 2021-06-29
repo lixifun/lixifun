@@ -7,7 +7,7 @@
 
 **Languages and Tools:**  
 
-<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="24" src="https://avatars.githubusercontent.com/u/41768318?s=200&v=4"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="24" src="https://raw.githubusercontent.com/github/explore/8ab0be27a8c97992e4930e630e2d68ba8d819183/topics/spring/spring.png"></code>
 <code><img height="24" src="https://avatars.githubusercontent.com/u/1483254?s=200&v=4"></code>
